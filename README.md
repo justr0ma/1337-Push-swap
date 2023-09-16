@@ -1,5 +1,4 @@
-# 1337-Push-swap
-subject of the project:
+# subject of the project:
 
 push_swap is a algorithm project where we must sort a given list of random numbers with a limited set of instructions, using the lowest possible number of actions.
 
